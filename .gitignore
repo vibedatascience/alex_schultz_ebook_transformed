@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+Alex_Schulz_book.epub
+Alex_Schulz_book.txt
+chapters/
+workbook.ipynb
+
+# Keep only the essentials for GitHub Pages
+# We want: book_viewer.html, transformed_chapters/, README.md
